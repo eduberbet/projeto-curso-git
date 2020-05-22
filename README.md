@@ -1,3 +1,7 @@
 # projeto-curso-git
-Projeto para armazenar, trabalhar, com os arquivos do curso de fullstack 
-da plataforma https://web.digitalinnovation.one
+Projeto para trabalhar com os cursos do bootcamp de fullstack do banco carrefour
+na plataforma https://web.digitalinnovation.one
+
+## cursos-git
+
+Arquivos index.html e contato.html
